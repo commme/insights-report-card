@@ -1,0 +1,15 @@
+# Dev / internal
+mockups/
+.omc/
+.bkit/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.env.local
+*.key
+*.pem
